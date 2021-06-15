@@ -3,3 +3,6 @@ resolusi codingan
 2.membuat website potofolio
 3.membuat aplikasi 
 4.belajar javascript
+
+belajar bahasa c
+belajar bahasa c++
